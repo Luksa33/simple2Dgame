@@ -1,0 +1,13 @@
+{
+"companyName": "Lux",
+"productName": "Simple 2D Test Game",
+"dataUrl": "Simple2DGame.data.unityweb",
+"wasmCodeUrl": "Simple2DGame.wasm.code.unityweb",
+"wasmFrameworkUrl": "Simple2DGame.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
